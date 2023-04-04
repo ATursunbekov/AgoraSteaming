@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+        "appIDs": ["RPXJGA4ZYB.com.alikhan.AgoraSteaming"],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+    }]
+  }
+}
